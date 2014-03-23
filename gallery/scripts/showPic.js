@@ -44,5 +44,29 @@ function addLoadEvent(func) {
     }
 }
 
+function insertAfter(newElement, targetElement){
+    var parent = targetElement.parentNode;
+    if(parent.lastChild == targetElement){
+        parent.append(newElement);
+    } else {
+        parent.insertBefore(newElement, targetElement.nextSibling);
+    }
+}
+
+function preparePlaceholder(){
+    var placeholder = document.createElement("img");
+    placeholder.setAttribute("id", "placeholder");
+    placeholder.setAttribute("src", "../images/placeholder.gif");
+    placeholder.setAttribute("alt", "my image gallery");
+    var description = document.createElement("p");
+    description.setAttribute("id", "description");
+    var descText = document.createTextNode("Choose an image");
+    description.appendChild(descText);
+    var gallery = document.getElementById("imagegallery");
+    insertAfter(placeholder, gallery);
+    insertAfter(description, placeholder);
+}
+
+addLoadEvent(preparePlaceholder)
 addLoadEvent(prepareGallery)
 
