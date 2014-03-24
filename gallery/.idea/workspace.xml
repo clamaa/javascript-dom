@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7bd74c1-b571-479b-99f7-b99b0eb4fa64" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="e7bd74c1-b571-479b-99f7-b99b0eb4fa64" name="Default" comment="" />
     <ignored path="gallery.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -527,24 +525,28 @@
       <changelist id="e7bd74c1-b571-479b-99f7-b99b0eb4fa64" name="Default" comment="" />
       <created>1395493199990</created>
       <updated>1395493199990</updated>
-      <workItem from="1395493203721" duration="11894000" />
+      <workItem from="1395493203721" duration="11951000" />
     </task>
     <task id="LOCAL-00001" summary="make the gallery document, placeholder and description dynamic.">
       <created>1395560456725</created>
       <updated>1395560456725</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="make the gallery document, placeholder and description dynamic.&#10;">
+      <created>1395660581945</created>
+      <updated>1395660581945</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11894000" />
+    <option name="totallyTimeSpent" value="11951000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1267" height="705" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -585,7 +587,8 @@
     </option>
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <MESSAGE value="make the gallery document, placeholder and description dynamic." />
-    <option name="LAST_COMMIT_MESSAGE" value="make the gallery document, placeholder and description dynamic." />
+    <MESSAGE value="make the gallery document, placeholder and description dynamic.&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="make the gallery document, placeholder and description dynamic.&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
